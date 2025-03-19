@@ -75,6 +75,7 @@ const PracticePage = ({ data, preview }) => {
       whatIs,
       whyDo,
       howTo,
+      allTags,
     },
     mediaGallery,
     resources,
